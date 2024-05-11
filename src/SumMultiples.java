@@ -25,7 +25,7 @@
 //Input: n = 9
 //Output: 30
 //Explanation: Numbers in the range [1, 9] that are divisible by 3, 5, or 7 are 3, 5, 6, 7, 9. The sum of these numbers is 30.
-// 
+//
 
 public class SumMultiples {
     public static void main(String[] args) {
